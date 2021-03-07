@@ -1,4 +1,6 @@
 # fake-build-blockchain
+<img src="./fbuild-bc.png" width="600">
+
 The fake building animation of blockchain projects.
 
 ### Usage
